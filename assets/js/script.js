@@ -8,7 +8,7 @@ const images = [
   'assets/image/gambar10.jpg',
   'assets/image/gambar11.jpg',
   'assets/image/gambar12.jpg',
-  'assets/image/gambar13.jpg',
+  'assets/image/gambar13.JPG',
   'assets/image/gambar15.jpg',
   'assets/image/gambar16.jpg',
   'assets/image/gambar18.jpg',
