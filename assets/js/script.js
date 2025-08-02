@@ -25,9 +25,9 @@ const images = [
   'assets/image/gambar9.jpg',
   'assets/image/gambar21.jpg',
   'assets/image/gambar22.jpg',
-  'assets/image/gambar22.jpg',
-  'assets/image/gambar22.jpg',
-  'assets/image/gambar22.jpg'
+  'assets/image/gambar23.jpg',
+  'assets/image/gambar25.jpg',
+  'assets/image/gambar24.jpg'
 ];
 
 function openLightbox(index) {
@@ -126,3 +126,4 @@ function typeText() {
     }
 }
 typeText();
+
