@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -51,7 +54,7 @@ body {
 /* Container Ucapan */
 .container {
   background: #fff0f5;
-  font-family: 'Libertinus Serif';
+  font-family: 'Courier Prime';
   margin: 80px auto;
   text-align: center;
   padding: 30px;
@@ -65,6 +68,7 @@ body {
   font-size: 2em;
   color: #d63384;
   margin-bottom: 20px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 .typing-box {
